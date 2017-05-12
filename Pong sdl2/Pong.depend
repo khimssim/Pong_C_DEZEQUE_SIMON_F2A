@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1494607357 source:c:\users\simon\desktop\pong sdl2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<time.h>
+	<math.h>
+

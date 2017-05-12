@@ -1,0 +1,2 @@
+Pong où les mouvements des raquettes sont présent, avec le mouvement de la balle 
+Il manque les collisions de la balle contre les bords de l'écran la réinitialisation de la balle à chaque points, l'affichage du score et les collisions de la balle contre les raquettes 
